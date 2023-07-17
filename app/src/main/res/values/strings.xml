@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HashanMadhushanka</string>
+    <string name="signInTitle">Welcome</string>
+    <string name="signInSubtitle">Enter your username and password to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="view_profile">View Profile</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="dob">Date of birthday</string>
+    <string name="gender">Gender</string>
+    <string name="company">Company</string>
+    <string name="position">Position</string>
+</resources>
